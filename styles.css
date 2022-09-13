@@ -145,7 +145,7 @@ align-items: center;
 .burgerbtn {
 height:25px;
 width: 25px;
-background-image:url("file:///Users/rodrigomorales/Desktop/HTML/bars-solid.svg");
+background-image:url("/bars-solid.svg");
 background-color: transparent;
 border: none;
 float: right;
