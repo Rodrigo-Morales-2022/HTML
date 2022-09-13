@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Lista de supermercado">
+        <meta name="robots" content="index,follow">
+        <title>NAV BAR</title>
+        <meta name="viewport" content="width=device-witdh, initial-scale=1.0">
+        <link rel="stylesheet" href="file:///Users/rodrigomorales/Desktop/HTML/Copia%20de%20NAV%20BAR%20STYLES.css" >
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@900&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@900&display=swap" rel="stylesheet">
+<link rel="icon" type="image/x-icon" href="https://bit.ly/3pXggEA">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+          <nav class="barnav">
+            <div class="colapsed">
+            <img class="logonav"src="file:///Users/rodrigomorales/Desktop/HTML/SIT_LOGO_V1.svg" alt="">
+            <button class="burgerbtn"onclick="mostrar1()"> </button>
+            </div>
+            <ul>
+              <li class="Contact"><a href="#News">Contact Us</a></li>
+              <li><a href="#News">News</a></li>
+              <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn"> Products <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                <div class="dropdown-content">
+                  <a href="#">Link 1</a>
+                  <a href="#">Link 2</a>
+                  <a href="#">Link 3</a>
+                  <a href="#">Link 4</a>
+                </div>
+              </li>
+
+
+              <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn"> Products <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                <div class="dropdown-content">
+                  <a href="#">Link 1</a>
+                  <a href="#">Link 2</a>
+                  <a href="#">Link 3</a>
+                  <a href="#">Link 4</a>
+                </div>
+              </li>
+
+
+              <li><a href="#news">Retail</a></li>
+              <li><a href="#home">Home</a></li>
+            </ul>
+
+         </nav>
+
+         <div id="myDIV">
+           <div class="menupeque">
+             <a href="#">Link 1</a>
+             <a href="#">Link 2</a>
+             <a href="#">Link 3</a>
+             <a href="#">Link 4</a>
+           </div>
+</div>
+
+<script>
+function mostrar1() {
+
+
+  var element = document.getElementById("myDIV");
+  element.classList.toggle("mystyle");
+
+
+
+}
+</script>
+
+    </body>
+</html>
