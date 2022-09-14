@@ -1,0 +1,305 @@
+body {
+  background-color:#31344E;
+  margin: 0px;
+
+}
+
+html body
+{
+  color: #ffffff;
+
+}
+
+
+
+.barnav
+
+{
+background: #202233;
+padding: 10px;
+width: auto;
+display: flex;
+align-items: center;
+}
+
+
+
+
+
+
+ul {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:13.5px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-right: 5px;
+  margin-left: auto;
+}
+
+li {
+  float: right;
+  border-radius: 100px;
+  margin-right: 0px;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 17px;
+  padding-left: 17px;
+  text-decoration: none;
+  align-items: center;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: none;
+}
+
+li.dropdown {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #202233;
+  min-width: 200px;
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.5);
+  z-index: 1;
+  top: 41px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dropdown-content a:hover {
+  background-color: #CD0D61;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+  li:hover    {
+    color: white;
+    background: #161724;
+    transition: 0.3s;
+  }
+
+.Contact {
+  background-color: #CD0D61;
+    border-radius: 100px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.Contact:hover {
+  background-color: #CD0D61;
+}
+
+.logonav
+{
+margin-left: 5px;
+height:27px;
+}
+
+
+
+.colapsed
+
+{
+display:flex;
+align-items: center;
+}
+
+
+.burgerbtn {
+background-image: url("bars-solid.svg");
+height:40px;
+width: 40x;
+background: transparent;
+float: right;
+display: none;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 17px;
+padding-left: 17px;
+float: right;
+margin-left: auto;
+}
+
+
+#myDIV {
+  width: auto;
+  text-align: center;
+  background-color: #CD0D61;
+  margin-top: 0px;
+  display: none;
+}
+
+#myDIV.mystyle{
+  display: block;
+}
+
+.menupeque a
+{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:20px;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: auto;
+  text-decoration: none;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.menupeque a:hover
+{
+background: rgba(0, 0, 0, 0.5);
+}
+
+
+
+@keyframes bounce {
+	0%, 100%, 20%, 50%, 80% {
+		-webkit-transform: translateX(0);
+		-ms-transform:     translateX(0);
+		transform:         translateX(0)
+	}
+	40% {
+		-webkit-transform: translateX(-5px);
+		-ms-transform:     translateX(-5px);
+		transform:         translateX(-5px)
+	}
+	60% {
+		-webkit-transform: translateX(-5px);
+		-ms-transform:     translateX(-5px);
+		transform:         translateX(-5px)
+	}
+}
+
+.Contact:hover {
+  cursor: pointer;
+   animation-name: bounce;
+   -moz-animation-name: bounce;
+}
+
+.Contact {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+
+}
+
+
+.dropbtn i{
+  margin-left: 5px;
+  -webkit-animation-duration: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:700px) {
+
+  li, .dropbtn {
+    	display: none;
+    }
+
+    .logonav
+    {
+    margin-left: 4px;
+    height:30px;
+    }
+
+
+    .barnav
+    {
+    background: #202233;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    display:block;
+    }
+
+.colapsed
+{
+display:flex;
+align-items: center;
+}
+
+
+.burgerbtn {
+background-image:url("bars-solid.svg");
+background-color: transparent;
+border:none;
+float:right;
+display:block;
+decoration:none;
+background-position:center;
+background-repeat:no-repeat;
+height:30px;
+width:30px;
+padding-top: auto;
+padding-right: 0px;
+padding-left: 0px;
+margin-left: auto;
+margin-right: 4px;
+}
+
+
+    }
+
+
+    @media screen and (min-width:700px) {
+      #myDIV {
+        display: none !important;
+      }
+
+
+    }
