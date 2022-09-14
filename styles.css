@@ -172,6 +172,7 @@ margin-left: auto;
 
 .menupeque a
 {
+  font-family: nunito;
   display: inline-block;
   color: white;
   text-align: center;
@@ -182,7 +183,7 @@ margin-left: auto;
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-size:35px;
+  font-size:25px;
 }
 
 .menupeque a:hover {
