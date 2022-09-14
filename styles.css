@@ -182,6 +182,7 @@ margin-left: auto;
   align-items: center;
   display: flex;
   flex-direction: column;
+  font-size:25px;
 }
 
 .menupeque a:hover {
@@ -252,7 +253,7 @@ margin-right: 15px;
     }
 
 
-    @media screen and (min-width:760px) {
+    @media screen and (min-width:700px) {
       #myDIV {
         display: none !important;
       }
