@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Lista de supermercado">
+        <meta name="robots" content="index,follow">
+        <title>SECURE IP TECH 💻</title>
+        <meta name="viewport" content="width=device-witdh, initial-scale=1.0">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="icon" type="image/x-icon" href="favicon.svg">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+          <nav class="barnav">
+            <div class="colapsed">
+            <img class="logonav"src="SIT_LOGO_V1.svg" alt="">
+            <button class="burgerbtn"onclick="mostrar1()"> </button>
+            </div>
+            <ul>
+              <li class="Contact"><a href="#News">Contact Us</a></li>
+              <li><a href="#News">News</a></li>
+              <li class="dropdown">
+                <a href="javascript:void(0)" class="dropbtn"> Products <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+
+                  <div class="dropdown-content">
+                  <a href="#">All Products</a>
+                  <a href="#">Cloud Services</a>
+                  <a href="#">Voice</a>
+                  <a href="#">Lock Storage</a>
+                  <a href="#">Pronto Topup</a>
+                  <a href="#">Messenger</a>
+                </div>
+              </li>
+
+
+              <li><a href="#news">Retail</a></li>
+              <li><a href="#home">Home</a></li>
+            </ul>
+
+         </nav>
+
+         <div id="myDIV">
+           <div class="menupeque">
+             <a href="#">All Products</a>
+             <a href="#">Cloud Services</a>
+             <a href="#">Voice</a>
+             <a href="#">Lock Storage</a>
+             <a href="#">Pronto Topup</a>
+             <a href="#">Messenger</a>
+           </div>
+</div>
+
+<script>
+function mostrar1() {
+
+
+  var element = document.getElementById("myDIV");
+  element.classList.toggle("mystyle");
+
+
+
+}
+</script>
+
+    </body>
+</html>
