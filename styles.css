@@ -6,9 +6,6 @@ body {
 
 html body
 {
-  font-family: 'Nunito', sans-serif;
-  font-weight: bold;
-  font-size:15px;
   color: #ffffff;
 
 }
@@ -31,6 +28,9 @@ align-items: center;
 
 
 ul {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:13px;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -172,6 +172,9 @@ margin-left: auto;
 
 .menupeque a
 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:20px;
   display: inline-block;
   color: white;
   text-align: center;
