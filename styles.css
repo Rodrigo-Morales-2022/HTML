@@ -250,9 +250,6 @@ margin-left: auto;
 margin-right: 4px;
 }
 
-.dropdown:hover .dropdown-content {
-  display: none;
-}
   
     }
 
@@ -262,8 +259,5 @@ margin-right: 4px;
         display: none !important;
       }
       
-      .dropdown:hover .dropdown-content {
-  display: none;
-}
 
     }
