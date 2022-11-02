@@ -523,9 +523,51 @@ background: #fff;
 
 /* ---------------------------------CAROUSEL------------------------------------------ */
 
+.slider {
+    width: 600px;
+    margin: 0px auto;
+}
+
+.slick-slide {
+
+}
 
 
-/* --------------------------------------------------------------------------- */
+.slick-prev:before,
+.slick-next:before {
+    color: rgba(0, 0, 0, 0.1)!important;
+}
+
+
+.vertical-slider .slick-slide {
+    transition: all ease-in-out .6s;
+    opacity: .2;
+}
+
+.vertical-slider .slick-active {
+    opacity: .5;
+}
+
+.vertical-slider .slick-current {
+    opacity: 1;
+}
+
+
+.slick-next {
+    right: -40px!important;
+    z-index: 1!important;
+}
+
+.slick-prev {
+    left: -40px!important;
+    z-index: 1!important;
+}
+
+.card-body{
+padding-top: 20px!important;
+}
+
+/* ----------------------------------------------------------------------------------- */
 
 
 .section4 {
