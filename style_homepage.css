@@ -574,7 +574,7 @@ height:110px!important;
 width: 300px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
-background-image: url(file:///Users/rodrigomorales/Desktop/HOMEPAGE_V2/images/logoa.svg)!important;
+background-image: url(logoa.svg)!important;
 object-fit: contain;
 background-repeat: no-repeat!important;
 background-position: center!important;
@@ -586,7 +586,7 @@ height:110px!important;
 width: 300px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
-background-image: url(file:///Users/rodrigomorales/Desktop/HOMEPAGE_V2/images/logob.svg)!important;
+background-image: url(logob.svg)!important;
 object-fit: contain;
 background-repeat: no-repeat!important;
 background-position: center!important;
@@ -599,7 +599,7 @@ height:110px!important;
 width: 300px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
-background-image: url(file:///Users/rodrigomorales/Desktop/HOMEPAGE_V2/images/logoc.svg)!important;
+background-image: url(logoc.svg)!important;
 object-fit: contain;
 background-repeat: no-repeat!important;
 background-position: center!important;
