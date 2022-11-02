@@ -41,7 +41,7 @@
     border: none;
     outline: none;
     &:hover, &:focus {
-        outline: red;
+        outline: none;
         background: transparent;
         color: transparent;
         &:before {
@@ -61,7 +61,7 @@
     opacity: @slick-opacity-default;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
+    
     & when ( @slick-font-family = 'slick' ) {
         /* Icons */
         @font-face {
