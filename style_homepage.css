@@ -1097,7 +1097,7 @@ background-size:100%!important;
   .separador2
   {
   height: 60px;
-  background:#FCB81F;
+  background:#FC3838;
   }
 
  }
@@ -1166,8 +1166,8 @@ padding-top: 20px!important;
 
 
 .imgscarruselA {
-height:110px!important;
-width: 300px!important;
+height:77px!important;
+width: 210px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
 background-image: url(logoa.svg)!important;
@@ -1178,8 +1178,8 @@ background-size:100%!important;
 }
 
 .imgscarruselB {
-height:110px!important;
-width: 300px!important;
+height:77px!important;
+width: 210px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
 background-image: url(logob.svg)!important;
@@ -1191,8 +1191,8 @@ background-size:100%!important;
 
 
 .imgscarruselC {
-height:110px!important;
-width: 300px!important;
+height:77px!important;
+width: 210px!important;
 background:none!important; /* FONDO GENERAL */
 display: block!important;
 background-image: url(logoc.svg)!important;
