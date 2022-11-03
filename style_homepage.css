@@ -1122,16 +1122,19 @@ background-size:100%!important;
 @media screen and (max-width:730px) {
 
 .slider {
+    width: 260px;
+    margin: 0px auto;
+}
+
+.slick-list.draggable {
     width: 200px;
     margin: 0px auto;
 }
 
 
-
-
 .slick-prev:before,
 .slick-next:before {
-    color: rgba(0, 255, 0, 0.9)!important;
+    color: rgba(255, 0, 0, 0.9)!important;
 }
 
 
