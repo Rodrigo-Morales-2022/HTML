@@ -1097,14 +1097,14 @@ background-size:100%!important;
   .separador2
   {
   height: 60px;
-  background:#FC3838;
+  background:#FCB81F;
   }
 
  }
 
    }
 
-/*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
+/*---------------------------------------RESPONSIVE CAROUSEL 730 Y MENOS--------------------------------------- */
 
 
    @media screen and (max-width:800px) {
@@ -1112,5 +1112,94 @@ background-size:100%!important;
      .listafooter li { /* EDITAR CADA LÍNEA DE LA LISTA */
      text-align: center;
      }
+
+      }
+
+
+/*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
+
+
+@media screen and (max-width:730px) {
+
+.slider {
+    width: 300px;
+    margin: 0px auto;
+}
+
+
+
+
+.slick-prev:before,
+.slick-next:before {
+    color: rgba(0, 255, 0, 0.1)!important;
+}
+
+
+.vertical-slider .slick-slide {
+    transition: all ease-in-out .6s;
+    opacity: .2;
+}
+
+.vertical-slider .slick-active {
+    opacity: .5;
+}
+
+.vertical-slider .slick-current {
+    opacity: 1;
+}
+
+
+.slick-next {
+    right: -35px!important;
+    z-index: 1!important;
+}
+
+.slick-prev {
+    left: -35px!important;
+    z-index: 1!important;
+}
+
+.card-body{
+padding-top: 20px!important;
+}
+
+
+
+.imgscarruselA {
+height:110px!important;
+width: 300px!important;
+background:none!important; /* FONDO GENERAL */
+display: block!important;
+background-image: url(logoa.svg)!important;
+object-fit: contain;
+background-repeat: no-repeat!important;
+background-position: center!important;
+background-size:100%!important;
+}
+
+.imgscarruselB {
+height:110px!important;
+width: 300px!important;
+background:none!important; /* FONDO GENERAL */
+display: block!important;
+background-image: url(logob.svg)!important;
+object-fit: contain;
+background-repeat: no-repeat!important;
+background-position: center!important;
+background-size:100%!important;
+}
+
+
+.imgscarruselC {
+height:110px!important;
+width: 300px!important;
+background:none!important; /* FONDO GENERAL */
+display: block!important;
+background-image: url(logoc.svg)!important;
+object-fit: contain;
+background-repeat: no-repeat!important;
+background-position: center!important;
+background-size:100%!important;
+}
 
       }
