@@ -1053,7 +1053,6 @@ margin-top: 40px;
   }
 
  }
-  }
 
 
 
@@ -1209,10 +1208,7 @@ z-index: 0;
    margin-top: 10px;
    }
 
-   .slider {
-       width: 70%!important;
-
-   }
+   .slider {width: 70%!important;}
 
    .imgscarruselA {
    height:120px!important;
