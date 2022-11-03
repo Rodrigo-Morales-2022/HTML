@@ -875,7 +875,7 @@ margin-left: auto;
 }
 
 
-/*---------------------------------------RESPONSIVE 500PX 930PX---------------------------------------*/
+/*---------------------------------------RESPONSIVE 500PX 930PX TABLET---------------------------------------*/
 
 
 @media screen and (max-width:930px) and (min-width:500px){
@@ -1051,18 +1051,10 @@ margin-top: 40px;
   .separador2
   {
   height: 60px;
-  background: red;
+  background:green!important;
   }
 
  }
-
-
-/*---------------------------------------RESPONSIVE CAROUSEL--------------------------------------- */
-
-
-@media screen and (max-width:930px) and (min-width:850px){
-
-.imgscarruselA, .imgscarruselB, .imgscarruselC { height:120px!important;}
 
    }
 
