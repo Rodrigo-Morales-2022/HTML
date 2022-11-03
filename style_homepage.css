@@ -995,8 +995,8 @@ margin-top: 40px;
 
 
 .slider {
-      width: 70%!important;
-
+width: 70%!important;
+height: auto!important;	
   }
 
   .imgscarruselA {
