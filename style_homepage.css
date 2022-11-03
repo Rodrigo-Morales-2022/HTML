@@ -995,7 +995,7 @@ margin-top: 40px;
 
 
 .slider {
-    width: 90%;
+    width: 600px;
     margin: 0px auto;
 }
 
@@ -1004,7 +1004,7 @@ margin-top: 40px;
 
 .slick-prev:before,
 .slick-next:before {
-    color: rgba(255, 0, 0, 0.1)!important;
+    color: rgba(o, 0, 0, 0.1)!important;
 }
 
 
@@ -1097,7 +1097,7 @@ background-size:100%!important;
   .separador2
   {
   height: 60px;
-  background:#FCB81F;
+  background:#FC3838;
   }
 
  }
