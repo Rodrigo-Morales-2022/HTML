@@ -1057,13 +1057,13 @@ margin-top: 40px;
 
 
 
-@media screen and (max-width:930px) and (min-width:850px){
+/*@media screen and (max-width:930px) and (min-width:850px){
 
 .imgscarruselA, .imgscarruselB, .imgscarruselC {
   height:120px!important;
   }
 
-   }
+   }*/
 
 /*---------------------------------------RESPONSIVE 500PX--------------------------------------- */
 
@@ -1222,7 +1222,7 @@ z-index: 0;
    background-image: url(logoa.svg)!important;
    background-repeat: no-repeat!important;
    background-position: center!important;
-   background-size: 100%;
+   background-size: 100%!important;
    }
 
    .imgscarruselB {
@@ -1233,7 +1233,7 @@ z-index: 0;
   background-image: url(logob.svg)!important;
    background-repeat: no-repeat!important;
    background-position: center!important;
-   background-size: 100%;
+   background-size: 100%!important;
    }
 
    .imgscarruselC {
@@ -1244,7 +1244,7 @@ z-index: 0;
   background-image: url(logoc.svg)!important;
    background-repeat: no-repeat!important;
    background-position: center!important;
-   background-size: 100%;
+   background-size: 100%!important;
    }
 
 
