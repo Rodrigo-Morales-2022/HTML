@@ -1127,14 +1127,14 @@ background-size:100%!important;
 }
 
 .slick-list.draggable {
-    width: 200px;
-    margin: 0px auto;
+height:80px;
 }
+
 
 
 .slick-prev:before,
 .slick-next:before {
-    color: rgba(255, 0, 0, 0.9)!important;
+    color: rgba(0, 0, 255, 0.9)!important;
 }
 
 
