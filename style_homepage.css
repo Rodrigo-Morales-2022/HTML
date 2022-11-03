@@ -813,6 +813,65 @@ color: #CD0D61;
 font-size: 15px;
 }
 
+/* --------------------------------RESPONSIVE NAVIGATION BAR------------------------------------------- */
+
+@media screen and (max-width:930px) {
+
+  li, .dropbtn {
+    	display: none;
+    }
+
+    .logonav
+    {
+    height:30px;
+    }
+
+
+    .menubarnavbar
+    {
+    background: #202233;
+
+    width: 100%;
+    display:block;
+    position: relative;
+    }
+
+.colapsed
+{
+display:flex;
+align-items: center;
+}
+
+
+.burgerbtn {
+background-image:url("bars-solid.svg");
+background-color: transparent;
+border:none;
+float:right;
+display:block;
+decoration:none;
+background-position:center;
+background-repeat:no-repeat;
+height:30px;
+width:30px;
+padding-top: auto;
+padding-right: 0px;
+padding-left: 0px;
+margin-left: auto;
+}
+
+}
+
+@media screen and (min-width:930px) {
+  #myDIV {
+    display:none!important;
+  }
+.burgerbtn.close{
+      display:none!important;
+  }
+
+}
+
 
 /* --------------------------------RESPONSIVE------------------------------------------- */
 
