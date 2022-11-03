@@ -1104,25 +1104,25 @@ background-size:100%!important;
 
    }
 
-/*---------------------------------------RESPONSIVE CAROUSEL 730 Y MENOS--------------------------------------- */
+/*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
 
 
    @media screen and (max-width:800px) {
 
-     .listafooter li { /* EDITAR CADA LÍNEA DE LA LISTA */
-     text-align: center;
+     .listafooter li {
+     text-align: center!important;
      }
 
       }
 
 
-/*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
+/*---------------------------------------RESPONSIVE CAROUSEL 730 Y MENOS--------------------------------------- */
 
 
 @media screen and (max-width:730px) {
 
 .slider {
-    width: 300px;
+    width: 200px;
     margin: 0px auto;
 }
 
@@ -1131,7 +1131,7 @@ background-size:100%!important;
 
 .slick-prev:before,
 .slick-next:before {
-    color: rgba(0, 255, 0, 0.1)!important;
+    color: rgba(0, 255, 0, 0.9)!important;
 }
 
 
