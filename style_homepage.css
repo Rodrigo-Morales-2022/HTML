@@ -920,13 +920,13 @@ margin-top: 40px;
   {
   width: 100%;
   height: 40px;
-  background: #fff;
+  background:#fff;
   }
 
   .separador2
   {
   height: 60px;
-  background:#FC3838;
+  background:#fff;
   }
 
  }
@@ -936,7 +936,7 @@ margin-top: 40px;
 /*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
 
 
-   @media screen and (max-width:800px) {
+   @media screen and (max-width:900px) {
 
      .listafooter li {
      text-align: center!important;
