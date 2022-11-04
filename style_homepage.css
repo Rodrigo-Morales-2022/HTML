@@ -938,8 +938,8 @@ margin-top: 40px;
 
    @media screen and (max-width:900px) {
 
-     .listafooter li {
-     text-align: center!important;
+     .listafooter {
+     text-align:center!important;
      }
 	  
 
