@@ -938,31 +938,30 @@ margin-top: 40px;
 
 
 
-/*---------------------------------------SECTION 3 LINEA BOTTOM--------------------------------------- */
+/*---------------------------------------SECTION 3 CAROUSEL--------------------------------------- */
 
 
-  .lineasection3 {
-  margin-bottom: 5px;
-  }
+.brand-carousel.owl-carousel {
+	background:white;
+  width: 400px;
+}
 
-  .lineasection3b {
-  margin-top: 5px;
-  }
-
-  .separador1
-  {
-  width: 100%;
-  height: 40px;
-  background:#fff;
-  }
-
-  .separador2
-  {
-  height: 60px;
-  background:#fff;
-  }
-
- }
+.owl-dots {
+	text-align: center;
+	margin-top: 10px;
+}
+.owl-dot {
+	display: inline-block;
+	height: 10px !important;
+	width: 10px !important;
+	background-color: #F2F2F2 !important;
+	opacity: 0.8;
+	border-radius: 50%;
+	margin: 0 5px;
+}
+.owl-dot.active {
+	background-color: #8C8C8C !important;
+}
 
    }
 
