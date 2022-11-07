@@ -1102,27 +1102,11 @@ z-index: 0;
    margin-bottom: 14px;
    }
 
-   .lineasection3 {
-   width: 100px;
-   height: 2px;
-   border: 0;
-   background:#e3e3e3;
-   margin: auto;
-   margin-bottom: 10px;
-   }
-
-   .lineasection3b {
-   width: 100px;
-   height: 2px;
-   border: 0;
-   background:#e3e3e3;
-   margin: auto;
-   margin-top: 10px;
-   }
+  
 
    .lineasection3 {
    width: 100px;
-   height: 2px;
+   height: 3px;
    border: 0;
    background:#e3e3e3;
    margin: auto;
@@ -1131,7 +1115,7 @@ z-index: 0;
 
    .lineasection3b {
    width: 100px;
-   height: 2px;
+   height: 3px;
    border: 0;
    background:#e3e3e3;
    margin: auto;
