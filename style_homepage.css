@@ -378,7 +378,7 @@ color: white!important;
 }
 
 
-/* ------------------------------SECTION 2--------------------------------------------- */
+/* -----------------------------------------SECTION 2--------------------------------------------- */
 
 
 .section2
@@ -1110,16 +1110,16 @@ z-index: 0;
    border: 0;
    background:#e3e3e3;
    margin: auto;
-   margin-bottom: 0px;
+   margin-bottom: 30px;
    }
 
    .lineasection3b {
    width: 100px;
-   height: 3px;
+   height: 10px;
    border: 0;
    background:#e3e3e3;
    margin: auto;
-   margin-top: 0px;
+   margin-top: 30px;
    }
 	   
 /*---------------------------------------SECTION 3 CAROUSEL--------------------------------------- */
