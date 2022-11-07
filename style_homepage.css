@@ -943,7 +943,7 @@ margin-top: 40px;
 
 .brand-carousel.owl-carousel {
 	background:white;
-  width: 600px;
+  width: 500px;
 }
 
 .owl-dots {
@@ -1148,7 +1148,7 @@ z-index: 0;
 
 .owl-dots {
 	text-align: center;
-	margin-top: 10px;
+	margin-top:0px;
 }
 .owl-dot {
 	display:none;
