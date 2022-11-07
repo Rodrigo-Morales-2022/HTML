@@ -543,7 +543,7 @@ background: #fff;
 	margin-top: 10px;
 }
 .owl-dot {
-	display: inline-block;
+	display:none;
 	height: 10px !important;
 	width: 10px !important;
 	background-color: #F2F2F2 !important;
