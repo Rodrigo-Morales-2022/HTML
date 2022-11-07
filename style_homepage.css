@@ -965,4 +965,192 @@ margin-top: 40px;
 
    }
 
-/*---------------------------------------RESPONSIVE FOOTER--------------------------------------- */
+
+
+/* -------------------------------------RESPONSIVE MOBILE 500PX-------------------------------------- */
+
+
+   @media screen and (max-width:500px) {
+
+
+/* -------------------------------------SECTION 1-------------------------------------- */
+
+
+   .herosection
+   {
+   background: #31344E;
+   height:500px;
+   width: auto;
+   margin-top:0px;
+      }
+
+   .cornerheroA
+   {
+     height: 130px;
+     width: 130px;
+   }
+
+   .h1herosection
+   {
+     font-size: 20px;
+     color: white;
+     width: 300px;
+     margin: auto;
+     font-weight: 700;
+     font-size: 21pt;
+     line-height: 130%;
+     padding-bottom: 6px;
+   }
+
+   .p1herosection
+   {
+     margin-top: 0px;
+     width: 300px;
+     margin: auto;
+     font-weight: 300;
+     font-size: 12pt;
+     line-height: 150%;
+     padding-bottom: 10px;
+   }
+
+   .btncontactohero
+   {
+   background: #CD0D61;
+   padding:10px 0px 10px 0px;
+   font-weight: 700;
+   font-size: 12pt;
+   border-radius: 100px;
+   display: block;
+   text-decoration: none;
+   margin-bottom: 20px;
+   width: 130px;
+   }
+
+/* -------------------------------------SECTION 2-------------------------------------- */
+
+
+ .section2
+ {
+ background: white;
+ height:auto;
+ width: auto;
+ }
+
+ .cornersection2B
+ {
+ height: 130px;
+ width: 130px;
+ }
+
+   .textosection2
+   {
+     height: auto;
+     width: 350px;
+   }
+
+   .h2section2home
+   {
+   width: 200px;
+   margin: auto;
+   color: #CF0C62;
+   font-weight: 700;
+   font-size: 25pt;
+   line-height: 100%;
+   margin-top: 30px;
+   margin-bottom: 10px;
+   }
+
+   .p1section2
+   {
+   width: 300px;
+   margin: auto;
+   font-weight: 300;
+   font-size: 12pt;
+   line-height: 150%;
+   margin-bottom: 27px;
+   }
+
+.video-container {
+       height: 140px;
+       width:340px;
+       margin: auto;
+
+   }
+
+   .video-container video {
+width: 100%;
+height: 100%;
+position: absolute;
+object-fit: contain;
+z-index: 0;
+   }
+
+
+
+/* -------------------------------------SECTION 3-------------------------------------- */
+
+
+
+
+
+   .h2section3home {
+   font-family: "Nunito";
+   font-weight: 700;
+   text-align: center;
+   color: #8B8B8B;
+   font-size:20pt;
+   margin-bottom: 14px;
+   }
+
+   .lineasection3 {
+   width: 100px;
+   height: 2px;
+   border: 0;
+   background:#e3e3e3;
+   margin: auto;
+   margin-bottom: 10px;
+   }
+
+   .lineasection3b {
+   width: 100px;
+   height: 2px;
+   border: 0;
+   background:#e3e3e3;
+   margin: auto;
+   margin-top: 10px;
+   }
+
+   .lineasection3 {
+   width: 100px;
+   height: 2px;
+   border: 0;
+   background:#e3e3e3;
+   margin: auto;
+   margin-bottom: 0px;
+   }
+
+   .lineasection3b {
+   width: 100px;
+   height: 2px;
+   border: 0;
+   background:#e3e3e3;
+   margin: auto;
+   margin-top: 0px;
+   }
+
+
+   }
+
+
+
+/* -------------------------------------FOOTER-------------------------------------- */
+
+
+
+   @media screen and (max-width:800px) {
+
+     .listafooter li { /* EDITAR CADA LÍNEA DE LA LISTA */
+     text-align: center;
+     }
+
+      }
