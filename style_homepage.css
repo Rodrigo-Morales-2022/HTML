@@ -151,10 +151,10 @@ margin-left: auto;
 #myDIV {
   width: auto;
   text-align: center;
-  background-color: #CD0D61;
+  background-color:#CD0D61;
   margin-top: 0px;
   display: none;
-  position:fixed;
+  position: absolute!important;
   z-index:9999999999999;
   margin-top: 50px;
   top: 0;
