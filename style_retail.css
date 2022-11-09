@@ -399,7 +399,7 @@ align-items: center;
 
 .textoeimagen2
 {
-background-color:orange;
+background-color:none;
 width:100%;
 height:auto;
 display:flex;
@@ -425,22 +425,23 @@ background-size:455px;
 
 .retailtexto2 /*TAMAÑO TEXTO TITULO Y PARRAFO*/
 {
-color:black;
-background-color:yellow;
+background-color:none;
 width:340px;
-height:200px;
+height:auto;
 }
 
 
 .retailtitulo2
 {
-font-family: Montserrat;
+color:#CD0D61;
+font-family: Nunito;
 font-weight: 700;
 font-size: 40px;
 }
 
 .parrafo2
 {
+color: #353745;
 font-family: Nunito;
 font-size: 17px;
 font-weight: 200;
