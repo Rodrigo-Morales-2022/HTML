@@ -398,6 +398,49 @@ display: flex;
 align-items: center;
 }
 
+.textoeimagen2
+{
+background-color:orange;
+width:100%;
+height:auto;
+display:flex;
+}
+
+.retailtexto2
+{
+color:black;
+background-color:yellow;
+width:200px;
+height:200px;
+}
+
+
+.retailtitulo2
+{
+font-family: Montserrat;
+font-weight: 700;
+font-size: 40px;
+}
+
+.parrafo2
+{
+font-family: Nunito;
+font-size: 17px;
+font-weight: 200;
+text-align: justify;
+width:340px!important;
+}
+
+.retail2imagen
+{
+color:black;
+background-color:green;
+width:200px;
+height:200px;
+}
+
+
+
 /* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
 
 
