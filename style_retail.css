@@ -406,11 +406,19 @@ height:auto;
 display:flex;
 }
 
-.retailtexto2
+.retail2imagen /*TAMAÑO IMAGEN*/
+{
+color:black;
+background-color:green;
+width:200px;
+height:200px;
+}
+
+.retailtexto2 /*TAMAÑO TEXTO TITULO Y PARRAFO*/
 {
 color:black;
 background-color:yellow;
-width:200px;
+width:340px;
 height:200px;
 }
 
@@ -428,15 +436,6 @@ font-family: Nunito;
 font-size: 17px;
 font-weight: 200;
 text-align: justify;
-width:340px!important;
-}
-
-.retail2imagen
-{
-color:black;
-background-color:green;
-width:200px;
-height:200px;
 }
 
 
