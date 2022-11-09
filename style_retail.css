@@ -462,7 +462,6 @@ width: auto;
 align-items: center;
 justify-content: center;
 position: relative;
-margin-top: 58px;
 display: flex;
 align-items: center;
 }
@@ -500,8 +499,8 @@ width:340px;
 {
 color: #353745;
 font-family: Nunito;
-font-size: 17px;
-font-weight: 200;
+font-size:17px;
+font-weight:300;
 text-align: justify;
 width:340px!important;
 }
