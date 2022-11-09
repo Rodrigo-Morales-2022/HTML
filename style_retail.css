@@ -636,7 +636,7 @@ width: 400px;
    @media screen and (max-width:600px) {
 
 
-     /* -------------------------------------🧡🧡 SECTION 1 🧡🧡-------------------------------------- */
+/* -------------------------------------🧡🧡 SECTION 1 🧡🧡-------------------------------------- */
 
 
      .herosection
@@ -693,7 +693,7 @@ width: 400px;
      .retailcarousel1/*CONTENEDOR DEL CAROUSEL*/
      {
      color:yellow;
-     width: 400px;
+     width: 380px;
      }
 
      .brand-carousel.owl-carousel {
