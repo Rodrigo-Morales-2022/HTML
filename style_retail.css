@@ -390,7 +390,7 @@ width:400px;
 
 .retail2 {
 background:white;
-height:552px;
+height:552px!important;
 width: auto;
 align-items: center;
 justify-content: center;
