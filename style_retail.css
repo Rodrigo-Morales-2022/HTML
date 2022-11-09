@@ -331,21 +331,21 @@ width:400px;
 
 .dispositiva1 {
   background-image: url(images/carouse1_A.jpg);
-  background-repeat: no-repeat;ç
+  background-repeat: no-repeat;
   background-position: right;
   background-size: 388px;
 }
 
 .dispositiva2 {
   background-image: url(images/carouse1_B.jpg);
-  background-repeat: no-repeat;ç
+  background-repeat: no-repeat;
   background-position: right;
   background-size: 405px;
 }
 
 .dispositiva3 {
   background-image: url(images/carouse1_C.jpg);
-  background-repeat: no-repeat;ç
+  background-repeat: no-repeat;
   background-position: right;
   background-size: 388px;
 }
@@ -380,7 +380,7 @@ width:400px;
 
 .box {
   margin: auto;
-	background-color:red!important;
+  background-color:none!important;
   width: 370px;
   height: 250px;
   border-radius: 20px;
