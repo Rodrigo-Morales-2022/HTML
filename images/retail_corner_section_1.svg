@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 492 492" style="enable-background:new 0 0 492 492;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000152233455836341668520000005108670773836651650_);fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_00000152233455836341668520000005108670773836651650_);}
+	.st2{fill:none;}
+	.st3{fill:#4B4E6F;}
+	.st4{fill:#363A57;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" y="0" width="492" height="492"/>
+	</defs>
+	<clipPath id="SVGID_00000071519022088621334000000010778520540538280868_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path style="clip-path:url(#SVGID_00000071519022088621334000000010778520540538280868_);fill:#FFFFFF;" d="M0,269.9L292,492H0
+		V269.9z"/>
+	<g style="clip-path:url(#SVGID_00000071519022088621334000000010778520540538280868_);">
+		<polygon class="st2" points="492,-0.7 0,-0.7 0,-0.7 		"/>
+		<path class="st3" d="M-105.9-10.1H-216C-216,266.8,8.5,492,285.4,492h110.1C118.6,492-105.9,266.8-105.9-10.1z"/>
+		<polygon class="st4" points="-108,-0.7 0,-0.7 0,-0.7 		"/>
+		<path class="st4" d="M0,0v-0.7h-108C-108,271,112.3,492,384,492h108C220.3,492,0,271.7,0,0z"/>
+	</g>
+</g>
+</svg>
