@@ -406,6 +406,14 @@ height:auto;
 display:flex;
 }
 
+.margencontenido2
+{
+background-color:orange;
+width:100%;
+height:auto;
+display:flex;
+}
+
 .retail2imagen /*TAMAÑO IMAGEN*/
 {
 color:black;
