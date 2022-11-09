@@ -388,9 +388,9 @@ width:400px;
 
 /* -------------------------------------💛 SECTION 2 💛-------------------------------------- */
 
-.retail2 {
+retail2 {
 background:white;
-height:552px!important;
+height:552px;
 width: auto;
 align-items: center;
 justify-content: center;
