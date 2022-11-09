@@ -402,6 +402,7 @@ align-items: center;
 background-color:orange;
 width:100%;
 height:auto;
+display:flex;
 }
 
 .margencontenido2 /*PARA CENTRAR TODO*/
