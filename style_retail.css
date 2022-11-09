@@ -408,10 +408,7 @@ display:flex;
 
 .margencontenido2
 {
-background-color:orange;
-width:100%;
-height:auto;
-display:flex;
+margin:auto;
 }
 
 .retail2imagen /*TAMAÑO IMAGEN*/
