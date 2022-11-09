@@ -855,6 +855,64 @@ text-align: justify;
      	height: 8px !important;
      	width: 8px !important;
      }
+	   
+/* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
+
+.retail2 {
+height:auto;
+width: auto;
+}
+
+.textoeimagen2
+{
+width:100%;
+height:auto;
+display:flex;
+margin-top:60px;
+margin-bottom:60px;
+}
+
+.margencontenido2 /*PARA CENTRAR TODO*/
+{
+margin:auto;
+display:flow-root;
+align-items:center;
+}
+
+.retail2imagen /*TAMAÑO IMAGEN*/
+{
+width:330px;
+height:235px;
+margin-right:0px;
+margin:auto;
+background-image:url(images/retail_photo_A.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size:335px;
+margin-bottom:25px;
+}
+
+.retailtexto2 /*TAMAÑO TEXTO TITULO Y PARRAFO*/
+{
+width:330px;
+height:auto;
+margin:auto;
+}
+
+
+.retailtitulo2
+{
+font-weight: 700;
+font-size: 35px;
+text-align:center;
+}
+
+.parrafo2
+{
+font-size: 16px;
+font-weight: 200;
+text-align: justify;
+}
 
    }
 
