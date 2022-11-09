@@ -415,14 +415,13 @@ align-items:center;
 
 .retail2imagen /*TAMAÑO IMAGEN*/
 {
-background-color:none;
 width:460px;
 height:335px;
-margin-right:30px;
+margin-right:60px;
 background-image:url(images/retail_photo_A.png);
 background-repeat: no-repeat;
 background-position: center;
-background-size:200px;
+background-size:455px;
 }
 
 .retailtexto2 /*TAMAÑO TEXTO TITULO Y PARRAFO*/
