@@ -392,9 +392,10 @@ width:400px;
 background:white;
 height:552px;
 width: auto;
-justify-content: center;
-position: relative;
-align-items: center;
+justify-content:center;
+position:relative;
+align-items:center;
+display:flex;
 }
 
 .textoeimagen2
