@@ -451,6 +451,132 @@ text-align: justify;
 
 
 
+/* -------------------------------------💙 SECTION 3 💙-------------------------------------- */
+
+
+.herosection2
+{
+background:white;
+height:552px;
+width: auto;
+align-items: center;
+justify-content: center;
+position: relative;
+margin-top: 58px;
+display: flex;
+align-items: center;
+}
+
+
+/* -------------------------------------💙 PARRAFO 3 💙-------------------------------------- */
+
+
+.retail3
+{
+width: auto;
+height: auto;
+display: flex;
+}
+
+
+.retailtexto3
+{
+color:white;
+background-color:none;
+margin:auto;
+margin-right:60px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+}
+
+
+.retailtitulo3
+{
+font-family: Montserrat;
+font-weight: 700;
+font-size: 40px;
+}
+
+.parrafo3
+{
+font-family: Nunito;
+font-size: 17px;
+font-weight: 200;
+text-align: justify;
+width:340px!important;
+}
+
+
+
+/* -------------------------------------💙 CAROUSEL 2 💙-------------------------------------- */
+
+.retailcarousel2/*CONTENEDOR DEL CAROUSEL*/
+{
+color:yellow;
+background-color: rgba(122, 53, 172, 0.0) ;
+width:400px;
+}
+
+.dispositiva4 {
+  background-image: url(images/carouse1_A.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 388px;
+}
+
+.dispositiva5 {
+  background-image: url(images/carouse1_B.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 405px;
+}
+
+.dispositiva6 {
+  background-image: url(images/carouse1_C.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 388px;
+}
+
+
+.brand-carousel.owl-carousel {
+	background:none;
+  margin: auto;
+  position: relative;
+}
+
+.owl-dots {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.owl-dot {
+	display:block;
+	height: 10px !important;
+	width: 10px !important;
+	background-color: #8C8C8C!important;
+	opacity: 0.8;
+	border-radius: 50%;
+	margin: 0 5px;
+}
+.owl-dot.active {
+	background-color: #F2F2F2 !important;
+}
+
+.box {
+  margin: auto;
+  background-color:none!important;
+  width: 370px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+
+
+
+
+
 /* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
 
 
