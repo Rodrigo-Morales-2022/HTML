@@ -406,9 +406,10 @@ height:auto;
 display:flex;
 }
 
-.margencontenido2
+.margencontenido2 /*PARA CENTRAR TODO*/
 {
 margin:auto;
+display:flex;
 }
 
 .retail2imagen /*TAMAÑO IMAGEN*/
