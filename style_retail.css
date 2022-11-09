@@ -661,6 +661,7 @@ width: 400px;
      display: flow-root;
      margin-top: 60px;
      margin-bottom: 60px;
+     margin-right: 0px;
      }
 
 
@@ -668,7 +669,7 @@ width: 400px;
      {
      color:white;
      margin:auto;
-     margin-right:0px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+     margin-right:0px!important;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
      margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
      }
 
@@ -677,6 +678,7 @@ width: 400px;
      {
      font-size: 33px;
      text-align: center;
+     margin-right:0px!important;
      }
 
      .parrafo1
@@ -684,6 +686,7 @@ width: 400px;
      margin: auto;
      width:330px!important;
      font-size: 16px;
+     margin-right:0px!important;
      }
 
 
