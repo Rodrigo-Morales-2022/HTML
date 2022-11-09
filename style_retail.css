@@ -389,7 +389,7 @@ width:400px;
 /* -------------------------------------💛 SECTION 2 💛-------------------------------------- */
 
 .retail2 {
-background:white;
+background: #31344E;
 height:552px;
 width: auto;
 align-items: center;
@@ -397,6 +397,13 @@ justify-content: center;
 position: relative;
 margin-top: 58px;
 display: flex;
+align-items: center;
+background-image: url(images/retail_illustration_A.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 650px;
+background-color:#31344e;
+background-blend-mode: multiply;
 }
 
 /* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
