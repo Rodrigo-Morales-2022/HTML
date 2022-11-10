@@ -524,21 +524,21 @@ width:400px;
 .dispositiva4 {
   background-image: url(images/carouse1_D.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position:center;
   background-size: 405px;
 }
 
 .dispositiva5 {
   background-image: url(images/carouse1_E.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position:center;
   background-size: 405px;
 }
 
 .dispositiva6 {
   background-image: url(images/carouse1_F.png);
   background-repeat: no-repeat;
-  background-position: right;
+  background-position:center;
   background-size: 405px;
 }
 
@@ -957,7 +957,8 @@ margin-bottom:13px;
 }
 
 .dispositiva4 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 380px;
+  background-size: 430px;
+  background-position:center;
 }
 
 .dispositiva5 {/*FONDO DE DIAPOSITIVA*/
