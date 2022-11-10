@@ -916,7 +916,7 @@ flex-direction:column-reverse;
 {
 color:white;
 margin:auto;
-margin-right:0px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+margin-right:0px!important;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 }
 
