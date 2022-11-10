@@ -525,7 +525,7 @@ width:400px;
   background-image: url(images/carouse1_D.png);
   background-repeat: no-repeat;
   background-position: right;
-  background-size: 388px;
+  background-size: 405px;
 }
 
 .dispositiva5 {
@@ -539,7 +539,7 @@ width:400px;
   background-image: url(images/carouse1_F.png);
   background-repeat: no-repeat;
   background-position: right;
-  background-size: 388px;
+  background-size: 405px;
 }
 
 
@@ -957,16 +957,16 @@ margin-bottom:13px;
 }
 
 .dispositiva4 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 370px;
+  background-size: 390px;
 }
 
 .dispositiva5 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 370px;
+  background-size: 390px;
 }
 
 
 .dispositiva6 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 370px;
+  background-size: 390px;
 }
 
 .owl-dots {
