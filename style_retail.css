@@ -1152,7 +1152,6 @@ text-align: justify;
 height:auto;
 position: relative;
 margin-top:0px;
-background-size: 650px;
 margin-top:0px;/* ----ALTURA---- */
 margin-bottom:0px;/* ----ALTURA---- */
 }
@@ -1184,8 +1183,8 @@ margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 {
 text-align:center!important;
 font-weight: 700;
-font-size: 30px;
-width:340px;
+font-size: 29px;
+width:330px;
 margin:auto;
 margin-bottom:10px;
 margin-right:0px!important;
@@ -1194,7 +1193,8 @@ margin-right:0px!important;
 .parrafo3
 {
 margin: auto;
-width:340px!important;
+width:330px!important;
+font-size:16px;
 }
 
 
@@ -1204,28 +1204,28 @@ width:340px!important;
 .retailcarousel2/*CONTENEDOR DEL CAROUSEL*/
 {
 background-color: rgba(122, 53, 172, 0.0) ;
-width:400px;
+width:380px;
 margin-bottom:13px;
 }
 
 .box {/*TAMAÑO DE DIAPOSITIVA*/
   margin: auto;
-  width: 350px;
-  height: 220px;
+  width: 330px;
+  height: 200px;
   border-radius:20px;
 }
 
 .dispositiva4 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 380px;
+  background-size: 350px;
 }
 
 .dispositiva5 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 390px;
+  background-size: 340px;
 }
 
 
 .dispositiva6 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 390px;
+  background-size: 340px;
 }
 
 .owl-dots {
