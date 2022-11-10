@@ -1217,16 +1217,19 @@ margin-bottom:13px;
 }
 
 .dispositiva4 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 350px;
+  background-size: 380px;
+  background-position: center;
 }
 
 .dispositiva5 {/*FONDO DE DIAPOSITIVA*/
-  background-size: 340px;
+  background-size: 380px;
+  background-position: center;
 }
 
 
 .dispositiva6 {/*FONDO DE DIAPOSITIVA*/
   background-size: 340px;
+  background-position: center;
 }
 
 .owl-dots {
