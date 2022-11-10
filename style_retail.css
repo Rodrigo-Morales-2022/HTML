@@ -884,6 +884,94 @@ font-size: 17px;
 font-weight:300;
 text-align: justify;
 }
+
+/* -------------------------------------💙 SECTION 3 💙-------------------------------------- */
+
+
+.herosection2
+{
+height:auto;
+position: relative;
+margin-top:0px;
+background-size: 650px;
+margin-top:0px;/* ----ALTURA---- */
+margin-bottom:0px;/* ----ALTURA---- */
+}
+
+
+/* -------------------------------------💙 PARRAFO 3 💙-------------------------------------- */
+
+
+.retail3
+{
+display: flow-root;
+margin-top: 60px;
+margin-bottom: 60px;
+margin-left:0px;
+}
+
+
+.retailtexto3
+{
+color:white;
+margin:auto;
+margin-right:0px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+}
+
+
+.retailtitulo3
+{
+font-weight: 700;
+font-size: 30px;
+width:340px
+text-align: center;
+}
+
+.parrafo3
+{
+margin: auto;
+width:340px!important;
+}
+
+
+
+/* -------------------------------------💙 CAROUSEL 2 💙-------------------------------------- */
+
+.retailcarousel2/*CONTENEDOR DEL CAROUSEL*/
+{
+background-color: rgba(122, 53, 172, 0.0) ;
+width:400px;
+}
+
+.box {/*TAMAÑO DE DIAPOSITIVA*/
+  margin: auto;
+  width: 350px;
+  height: 220px;
+  border-radius:20px;
+}
+
+.dispositiva4 {/*FONDO DE DIAPOSITIVA*/
+  background-size: 370px;
+}
+
+.dispositiva5 {/*FONDO DE DIAPOSITIVA*/
+  background-size: 370px;
+}
+
+
+.dispositiva6 {/*FONDO DE DIAPOSITIVA*/
+  background-size: 370px;
+}
+
+.owl-dots {
+  margin-top: 20px;
+
+}
+.owl-dot {
+height: 8px !important;
+width: 8px !important;
+}
 	
 	
    }
