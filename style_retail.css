@@ -390,7 +390,7 @@ width:400px;
 
 .retail2 {
 background:white;
-height:552px;
+height:auto;
 width: auto;
 justify-content:center;
 position:relative;
@@ -457,7 +457,7 @@ text-align: justify;
 .herosection2
 {
 background:white;
-height:552px;
+height:auto;
 width: auto;
 align-items: center;
 justify-content: center;
