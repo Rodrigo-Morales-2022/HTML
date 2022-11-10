@@ -396,7 +396,7 @@ justify-content:center;
 position:relative;
 align-items:center;
 display:flex;
-margin-top:0px;
+margin-top:100px; /* ----ALTURA---- */
 margin-bottom:0px;
 }
 
@@ -419,7 +419,7 @@ align-items:center;
 {
 width:460px;
 height:335px;
-margin-right:60px;
+margin-right:80px;
 background-image:url(images/retail_photo_A.png);
 background-repeat: no-repeat;
 background-position: center;
@@ -466,8 +466,8 @@ justify-content: center;
 position: relative;
 display: flex;
 align-items: center;
-margin-top:0px;
-margin-bottom:0px;
+margin-top:120px;/* ----ALTURA---- */
+margin-bottom:1000px;/* ----ALTURA---- */
 }
 
 
@@ -486,7 +486,7 @@ display: flex;
 {
 background-color:none;
 margin:auto;
-margin-right:60px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+margin-right:70px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 }
 
 
