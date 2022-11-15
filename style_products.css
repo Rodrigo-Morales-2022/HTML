@@ -1,0 +1,434 @@
+/* -------------------------------------BODY------------------------------------- */
+
+body {
+
+  margin: 0px;
+  font-family: 'Montserrat';
+  background:white!important;
+
+}
+
+b {
+  font-family: 'Nunito';
+  font-weight: 700!important;
+}
+
+
+
+/* -------------------------------------🛑 MENU 🛑------------------------------------- */
+
+
+.menubarnavbar
+
+{
+background: #202233;
+padding: 10px;
+width: 100%;
+display: flex;
+align-items: center;
+position: fixed;
+z-index: 99999999999999999999;
+top: 0px;
+}
+
+.menubarnavbar ul {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:13.5px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-left: auto;
+  margin-bottom: 0px !important;
+}
+
+li {
+  float: right;
+  border-radius: 100px;
+  margin-right: 0px;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 17px;
+  padding-left: 17px;
+  text-decoration: none;
+  align-items: center;
+}
+
+.optionsnavbar li a:hover, .dropdown:hover .dropbtn {
+  background-color: none;
+  color: white !important;
+}
+
+li.dropdown {
+display: flex;
+align-items: center;
+justify-content: center;
+  position: inherit;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #202233;
+  min-width: 200px;
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.5);
+  top: 42px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+.dropdown-content a:hover {
+  background-color: #CD0D61;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+.optionsnavbar li:hover    {
+    color: white;
+    background: #CD0D61;
+    transition: 0.3s;
+  }
+
+.Contact {
+  background-color: #CD0D61;
+    border-radius: 100px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.Contact:hover {
+  background-color: #CD0D61;
+}
+
+.logonav
+{
+height:27px;
+}
+
+.colapsed
+
+{
+display:flex;
+align-items: center;
+}
+
+.burgerbtn {
+background-image: url("images/bars-solid.svg");
+height:40px;
+width: 40x;
+background: transparent;
+float: right;
+display: none;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 17px;
+padding-left: 17px;
+float: right;
+margin-left: auto;
+}
+
+#myDIV {
+  width: auto;
+  text-align: center;
+  background-color:#CD0D61;
+  margin-top: 0px;
+  display: none;
+  position: absolute!important;
+  z-index:9999999999999;
+  margin-top: 50px;
+  top: 0;
+  width: 100%;
+}
+
+#myDIV.mystyle{
+  display: block;
+}
+
+.menupeque a
+{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size:20px;
+  display: inline-block;
+color: white!important;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: auto;
+  text-decoration: none;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.menupeque a:hover
+{
+background: rgba(0, 0, 0, 0.5);
+}
+
+@keyframes bounce {
+	0%, 100%, 20%, 50%, 80% {
+		-webkit-transform: translateX(0);
+		-ms-transform:     translateX(0);
+		transform:         translateX(0)
+	}
+	40% {
+		-webkit-transform: translateX(-5px);
+		-ms-transform:     translateX(-5px);
+		transform:         translateX(-5px)
+	}
+	60% {
+		-webkit-transform: translateX(-5px);
+		-ms-transform:     translateX(-5px);
+		transform:         translateX(-5px)
+	}
+}
+
+.Contact:hover {
+background-color: #F21878;
+transition: 0.2s;
+cursor: pointer;
+animation-name: bounce;
+-moz-animation-name: bounce;
+}
+
+.Contact {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+
+}
+
+.burgerbtn.close{
+  background-image: url("images/X Menu Bar.svg");
+  background-color: none;
+  border:none;
+  float:right;
+  display:block;
+  decoration:none;
+  background-position:center;
+  background-repeat:no-repeat;
+  height:30px;
+  width:30px;
+  padding-top: auto;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: auto;
+}
+
+#downdropicon {
+margin-left: 5px;
+}
+
+
+/* -------------------------------------🧡 SECTION 1 🧡-------------------------------------- */
+
+
+
+
+
+/* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
+
+
+.section6 {
+background-color:hsl(234, 27%, 12%);
+width: 100%;
+height: auto;
+float: none;
+position: relative;
+
+}
+
+.row.listacontainer {
+width: 80%;
+margin: auto;
+}
+
+.col-md-3 {
+  background: none;
+}
+
+ul.col-md-3 {
+list-style: none;
+
+}
+
+ul.listafooter {
+  padding: 0px;
+  margin: auto;
+  margin-bottom: 15px;
+  background-color: rgba(255, 0, 0, 0.0);
+}
+
+.listafooter li { /* EDITAR CADA LÍNEA DE LA LISTA */
+text-align: left;
+float: none;
+display: block;
+padding: 0px;
+font-family: nunito;
+color: white;
+font-weight: 400;
+font-size: 14px;
+padding: 7px;
+}
+
+.listafooter i {
+font-size:25px;
+padding-right: 10px;
+}
+
+li.titulofooter { /* EDITAR TITULO DE LA LISTA */
+color: white;
+font-family: nunito;
+font-weight: 900;
+font-size: 16px;
+margin-bottom: 0px;
+}
+
+.iconsfooter { /* ICONOS REDES */
+color: white;
+border-radius: 0px;
+text-align: center!important;
+}
+
+.footertopbottom
+{
+width: 100%;
+height: 60px;
+background-color:hsl(234, 27%, 12%);
+}
+
+.listafooter a
+
+{
+padding: 0px;
+}
+
+.listafooter a:hover
+
+{
+color: #CD0D61;
+}
+
+/*--------------------------------🟢🟢 RESPONSIVE NAV BAR 🟢🟢--------------------------------*/
+
+@media screen and (max-width:930px) {
+
+  li, .dropbtn {
+    	display: none;
+    }
+
+    .logonav
+    {
+    height:30px;
+    }
+
+
+    .menubarnavbar
+    {
+    background: #202233;
+
+    width: 100%;
+    display:block;
+    position: relative;
+    }
+
+.colapsed
+{
+display:flex;
+align-items: center;
+}
+
+
+.burgerbtn {
+background-image:url("images/bars-solid.svg");
+background-color: transparent;
+border:none;
+float:right;
+display:block;
+decoration:none;
+background-position:center;
+background-repeat:no-repeat;
+height:30px;
+width:30px;
+padding-top: auto;
+padding-right: 0px;
+padding-left: 0px;
+margin-left: auto;
+}
+
+}
+
+@media screen and (min-width:930px) {
+  #myDIV {
+    display:none!important;
+  }
+.burgerbtn.close{
+      display:none!important;
+  }
+
+}
+
+
+/*-----------------------------🟢 RESPONSIVE 500PX 930PX TABLET 🟢-----------------------------*/
+
+
+@media screen and (max-width:930px) and (min-width:500px){
+
+
+
+
+
+   }
+
+
+/*--------------------------------🟢 RESPONSIVE MOBILE 500PX 🟢--------------------------------*/
+
+
+   @media screen and (max-width:600px) {
+
+
+
+
+   }
+
+
+
+/* -------------------------------------🟢 FOOTER 🟢-------------------------------------- */
+
+
+
+
+   @media screen and (max-width:800px) {
+
+     .listafooter li { /* EDITAR CADA LÍNEA DE LA LISTA */
+     text-align: center;
+     }
+
+      }
