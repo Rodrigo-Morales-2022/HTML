@@ -423,7 +423,32 @@ margin-left: auto;
 
 @media screen and (max-width:930px) and (min-width:500px){
 
+/* -------------------------------------🧡 SECTION 1 🧡------------------------------------- */
 
+
+.herosection
+{
+background: #31344E;
+height:552px;
+width: auto;
+align-items: center;
+justify-content: center;
+position: relative;
+margin-top: 0px;
+display: flex;
+align-items: center;
+}
+
+
+.cornerheroA
+{
+position: absolute;
+bottom: 0px;
+left: 0px;
+height: 150px;
+width: 150px;
+margin: 0px;
+}
 
 
 
@@ -435,7 +460,29 @@ margin-left: auto;
 
    @media screen and (max-width:600px) {
 
+.herosection
+{
+background: #31344E;
+height:552px;
+width: auto;
+align-items: center;
+justify-content: center;
+position: relative;
+margin-top: 0px;
+display: flex;
+align-items: center;
+}
 
+
+.cornerheroA
+{
+position: absolute;
+bottom: 0px;
+left: 0px;
+height: 90px;
+width: 90px;
+margin: 0px;
+}
 
 
    }
