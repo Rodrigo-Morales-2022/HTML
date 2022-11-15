@@ -261,13 +261,7 @@ position: relative;
 margin-top: 58px;
 display: flex;
 align-items: center;
-background-image: url(images/retail_illustration_A.svg);
-background-repeat: no-repeat;
-background-position: center;
-background-size: 650px;
-background-color:#31344e;
-background-blend-mode: multiply;
-   }
+}
 
 
 .cornerheroA
