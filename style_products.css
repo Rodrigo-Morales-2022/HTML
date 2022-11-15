@@ -258,7 +258,7 @@ background-color:#31344E;
 margin-top:58px;
 }
 
-.cornerheroA
+.corner
 {
 position: absolute;
 bottom: 0px;
@@ -266,6 +266,7 @@ left: 0px;
 height: 250px;
 width: 250px;
 margin: 0px;
+background-color:red;
 }
 
 
