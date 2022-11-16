@@ -310,7 +310,7 @@ display: flex;
 
 .productos1
 {
-width:100px;
+width:auto;
 height:auto;
 background-color:red;
 }
@@ -329,6 +329,7 @@ width:auto;
 height:50px;
 background-color:pink;
 display:block;
+margin:auto;
 }
 
 .productos2
