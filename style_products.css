@@ -310,22 +310,23 @@ display: flex;
 
 .productos1
 {
-width:auto;
+width:160px;
 height:auto;
 background-color:red;
 }
 
 .icono1
 {
-width:160;
+width:160px;
 height:160px;
 background-color:green;
 display:block;
+margin:auto;
 }
 
 .link1
 {
-width:160;
+width:160px;
 height:auto;
 background-color:pink;
 display:block;
@@ -337,22 +338,23 @@ font-family:Nunito;
 
 .productos2
 {
-width:auto;
+width:160px;
 height:auto;
 background-color:blue;
 }
 
 .icono2
 {
-width:160;
+width:160px;
 height:160px;
 background-color:green;
 display:block;
+margin:auto;
 }
 
 .link2
 {
-width:160;
+width:160px;
 height:auto;
 background-color:pink;
 display:block;
