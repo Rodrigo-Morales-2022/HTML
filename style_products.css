@@ -317,39 +317,42 @@ background-color:red;
 
 .icono1
 {
-width:auto;
-height:50px;
+width:160;
+height:160px;
 background-color:green;
 display:block;
 }
 
 .link1
 {
-width:auto;
-height:50px;
+width:160;
+height:auto;
 background-color:pink;
 display:block;
 margin:auto;
+text-decoration:none!important;
+color: white;
+font-family:Nunito;
 }
 
 .productos2
 {
-width:160px;
+width:auto;
 height:auto;
 background-color:blue;
 }
 
 .icono2
 {
-width:auto;
-height:100px;
+width:160;
+height:160px;
 background-color:green;
 display:block;
 }
 
 .link2
 {
-width:auto;
+width:160;
 height:auto;
 background-color:pink;
 display:block;
