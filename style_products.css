@@ -326,7 +326,7 @@ margin:auto;
 
 .link1
 {
-width:auto;
+width:160px;
 height:auto;
 background-color:none;
 display:block;
@@ -355,7 +355,7 @@ margin:auto;
 
 .link2
 {
-width:auto;
+width:160px;
 height:auto;
 background-color:none;
 display:block;
@@ -366,7 +366,7 @@ font-family:Nunito;
 text-align:center;
 }
 
-.link1, link2:hover
+.link1, .link2:hover
 {
 color:white;
 }
