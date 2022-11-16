@@ -282,12 +282,13 @@ height:auto;
 width:100%;
 background-color:yellow;
 align-content:center;
+text-align:center;
 }
 
 .titulo1 {
 color:white;
 font-family:Montserrat;
-font-weight:400;
+font-weight:700;
 font-size:40px;
 }
 
