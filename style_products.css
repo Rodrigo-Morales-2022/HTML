@@ -292,6 +292,29 @@ font-weight:700;
 font-size:40px;
 }
 
+.contenedoriconos1
+{
+width:auto;
+height:auto;
+background-color:orange;
+margin:auto;
+display:flex;
+}
+
+.productos1
+{
+width:100px;
+height:100px;
+background-color:red;
+}
+
+.productos2
+{
+width:100px;
+height:100px;
+background-color:blue;
+}
+
 
 /* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
 
