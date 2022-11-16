@@ -279,7 +279,7 @@ margin: 0px;
 
 .contenedorpadre1 {
 height:auto;
-width:80%;
+width:100%;
 background-color:yellow;
 align-content:center;
 text-align:center;
@@ -294,7 +294,7 @@ font-size:40px;
 
 .contenedoriconos1
 {
-width:900px;
+width:auto;
 height:auto;
 background-color:orange;
 margin:auto;
