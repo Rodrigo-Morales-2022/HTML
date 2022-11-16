@@ -280,7 +280,7 @@ margin: 0px;
 .contenedorpadre1 {
 height:auto;
 width:100%;
-background-color:yellow;
+background-color:none;
 align-content:center;
 text-align:center;
 }
@@ -296,7 +296,7 @@ font-size:40px;
 {
 width:auto;
 height:auto;
-background-color:orange;
+background-color:none;
 margin:auto;
 display: flex;
 align-items: center;
@@ -310,9 +310,9 @@ display: flex;
 
 .productos1
 {
-width:160px;
+width:auto;
 height:auto;
-background-color:red;
+background-color:none;
 }
 
 .icono1
@@ -326,21 +326,22 @@ margin:auto;
 
 .link1
 {
-width:160px;
+width:auto;
 height:auto;
-background-color:pink;
+background-color:none;
 display:block;
 margin:auto;
 text-decoration:none!important;
 color: white;
 font-family:Nunito;
+text-align:center;
 }
 
 .productos2
 {
-width:160px;
+width:auto;
 height:auto;
-background-color:blue;
+background-color:none;
 }
 
 .icono2
@@ -354,14 +355,20 @@ margin:auto;
 
 .link2
 {
-width:160px;
+width:auto;
 height:auto;
-background-color:pink;
+background-color:none;
 display:block;
 margin:auto;
 text-decoration:none!important;
 color: white;
 font-family:Nunito;
+text-align:center;
+}
+
+.link1, link2:hover
+{
+color:white;
 }
 
 
