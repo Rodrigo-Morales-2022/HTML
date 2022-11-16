@@ -310,8 +310,8 @@ display: flex;
 
 .productos1
 {
-width:100px;
-height:100px;
+width:auto;
+height:auto;
 background-color:red;
 }
 
@@ -320,6 +320,7 @@ background-color:red;
 width:auto;
 height:50px;
 background-color:green;
+display:block;
 }
 
 .link1
@@ -327,6 +328,7 @@ background-color:green;
 width:auto;
 height:50px;
 background-color:pink;
+display:block;
 }
 
 .productos2
