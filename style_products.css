@@ -313,12 +313,13 @@ display: flex;
 width:auto;
 height:auto;
 background-color:none;
+margin-right:30px;
 }
 
 .icono1
 {
-width:160px;
-height:160px;
+width:100px;
+height:100px;
 background-color:green;
 display:block;
 margin:auto;
@@ -346,8 +347,8 @@ background-color:none;
 
 .icono2
 {
-width:160px;
-height:160px;
+width:100px;
+height:100px;
 background-color:green;
 display:block;
 margin:auto;
