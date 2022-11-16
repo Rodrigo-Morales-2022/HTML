@@ -279,8 +279,9 @@ margin: 0px;
 
 .contenedorpadre1 {
 height:auto;
-width:auto;
-backgroubd-color:yellow;
+width:100%;
+background-color:yellow;
+align-content:center;
 }
 
 .titulo1 {
