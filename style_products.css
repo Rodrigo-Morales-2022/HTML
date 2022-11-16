@@ -334,9 +334,29 @@ margin:auto;
 
 .productos2
 {
-width:100px;
-height:100px;
+width:160px;
+height:auto;
 background-color:blue;
+}
+
+.icono2
+{
+width:auto;
+height:100px;
+background-color:green;
+display:block;
+}
+
+.link2
+{
+width:auto;
+height:auto;
+background-color:pink;
+display:block;
+margin:auto;
+text-decoration:none!important;
+color: white;
+font-family:Nunito;
 }
 
 
