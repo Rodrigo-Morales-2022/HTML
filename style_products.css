@@ -298,7 +298,8 @@ width:900px;
 height:auto;
 background-color:orange;
 margin:auto;
-display:flex;
+display: flex;
+align-items: center;
 }
 
 .productos1
