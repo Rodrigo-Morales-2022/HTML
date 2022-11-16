@@ -320,7 +320,7 @@ margin-right:30px;
 {
 width:100px;
 height:100px;
-background-color:green;
+background-color:#00800036;
 display:block;
 margin:auto;
 }
@@ -328,8 +328,8 @@ margin:auto;
 .link1
 {
 width:160px;
-height:auto;
-background-color:none;
+height:30px;
+background-color:#CF0C63;
 display:block;
 margin:auto;
 text-decoration:none!important;
@@ -349,7 +349,7 @@ background-color:none;
 {
 width:100px;
 height:100px;
-background-color:green;
+background-color:#00800036;
 display:block;
 margin:auto;
 }
@@ -357,8 +357,8 @@ margin:auto;
 .link2
 {
 width:160px;
-height:auto;
-background-color:none;
+height:30px;
+background-color:#CF0C63;
 display:block;
 margin:auto;
 text-decoration:none!important;
@@ -367,7 +367,7 @@ font-family:Nunito;
 text-align:center;
 }
 
-.link1, .link2:hover
+.link1:hover, .link2:hover
 {
 color:white;
 }
