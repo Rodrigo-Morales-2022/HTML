@@ -302,6 +302,12 @@ display: flex;
 align-items: center;
 }
 
+.contenedorproductos
+{
+margin: auto;
+display: flex;
+}
+
 .productos1
 {
 width:100px;
