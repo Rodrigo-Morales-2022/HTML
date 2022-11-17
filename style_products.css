@@ -320,9 +320,12 @@ margin-right:30px;
 {
 width:100px;
 height:100px;
-background-color:#00800036;
 display:block;
 margin:auto;
+background-image: url(images/pronto_icon1.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:60px;
 }
 
 .link1
