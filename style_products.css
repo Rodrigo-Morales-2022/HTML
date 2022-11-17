@@ -401,8 +401,6 @@ position: relative;
 .video-container {
     height: 200px;
     width: 200px;
-    position: relative;
-    margin:auto;
     background: white!important;
 
 }
@@ -412,7 +410,6 @@ position: relative;
   height: 100%;
   position: absolute;
   object-fit: cover;
-  z-index: 0;
   background: white!important;
 }
 
