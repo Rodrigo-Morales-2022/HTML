@@ -359,6 +359,10 @@ height:100px;
 background-color:#00800036;
 display:block;
 margin:auto;
+background-image: url(images/pnc_icon1.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:60px;
 }
 
 .link2
