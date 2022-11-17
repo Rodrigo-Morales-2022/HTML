@@ -414,6 +414,21 @@ object-fit: cover;
 background: white!important;
 }
 
+/* -------------------------------------💙 PARRAFO 💙-------------------------------------- */
+
+
+.parrafo1
+{
+color:white;
+font-family:Nunito;
+font-size: 17px;
+font-weight: 200;
+height:200px;
+width:340px;
+background-color:red;
+}
+
+
 /* ----------------------------------🦶 FOOTOER 🦶----------------------------------------- */
 
 
