@@ -387,7 +387,7 @@ color:white;
 /* -----------------------------------💙 PRONTO TOPUP 💙----------------------------------- */
 .herosection2
 {
-background-color:red;
+background-color:white;
 height:auto;
 width:auto;
 align-items: center;
@@ -421,8 +421,9 @@ background: white!important;
 .parrafo1
 {
 height:auto;
-width:355px;
+width:360px;
 background-color:none;
+margin-right:30px;
 }
 
 .tituloA
@@ -430,7 +431,7 @@ background-color:none;
 color: #CD0D61;
 font-family: Nunito;
 font-weight: 700;
-font-size: 30px;
+font-size: 40px;
 width: 340px;
 }
 
