@@ -431,6 +431,8 @@ color:white;
 font-family:Nunito;
 font-size: 17px;
 font-weight:200;
+text-align: justify;
+text-justify: inter-word;
 }
 
 
