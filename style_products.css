@@ -420,13 +420,17 @@ background: white!important;
 
 .parrafo1
 {
+height:auto;
+width:340px;
+background-color:yellow;
+}
+
+.texto1
+{
 color:white;
 font-family:Nunito;
 font-size: 17px;
 font-weight:200;
-height:200px;
-width:200px;
-background-color:yellow;
 }
 
 
