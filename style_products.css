@@ -422,12 +422,21 @@ background: white!important;
 {
 height:auto;
 width:340px;
-background-color:yellow;
+background-color:none;
+}
+
+.titulo1
+{
+color: #CD0D61;
+font-family: Nunito;
+font-weight: 700;
+font-size: 30px;
+width: 340px;
 }
 
 .texto1
 {
-color:white;
+color:#353745;
 font-family:Nunito;
 font-size: 17px;
 font-weight:200;
