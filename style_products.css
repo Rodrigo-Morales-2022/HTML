@@ -425,7 +425,7 @@ background: white!important;
 height:auto;
 width:360px;
 background-color:none;
-margin-right:0px;
+margin-left:90px;
 }
 
 .tituloA
@@ -668,6 +668,7 @@ margin:auto;
 height:auto;
 width:340px;
 margin-right:0px;
+margin-left:0px;
 margin:auto;
 }
 
