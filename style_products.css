@@ -426,6 +426,7 @@ background-color:none;
 margin-right:30px;
 margin-top:120px;
 margin-bottom:120px;
+
 }
 
 .tituloA
@@ -652,6 +653,8 @@ align-items: center;
 justify-content: center;
 position: relative;
 display:block;
+margin-top:120px;
+margin-bottom:120px;
 }
 
 
@@ -659,10 +662,11 @@ display:block;
 
 .video-container 
 {
-height: 420px;
+height: 380px;
 width: 400px;
 background: white!important;
 position:relative;
+margin:auto;
 }
 
 .video-container video {
@@ -682,8 +686,7 @@ height:auto;
 width:340px;
 background-color:none;
 margin-right:0px;
-margin-top:120px;
-margin-bottom:120px;
+margin:auto;
 }
 
 .tituloA
@@ -693,7 +696,7 @@ font-family: Nunito;
 font-weight: 700;
 font-size: 40px;
 width: 340px;
-text-align:align;
+text-align:center;
 }
 
 .texto1A, .texto1B
