@@ -1045,6 +1045,8 @@ margin-bottom:70px;
    {
      height: auto;
      width: 350px;
+     margin-top:40px;
+     margin-bottom:0px;
    }
 
    .h2section2home
@@ -1068,6 +1070,11 @@ margin-bottom:70px;
    line-height: 150%;
    margin-bottom: 27px;
    }
+
+.fondovid 
+{
+margin-bottom:40px;
+}
 
 .video-container {
        height: 140px;
@@ -1120,6 +1127,11 @@ z-index: 0;
    margin: auto;
    margin-top:15px;
    }
+
+.section3
+{
+margin-bottom:40px;
+}
 	   
 /*---------------------------------------SECTION 3 CAROUSEL--------------------------------------- */
 
