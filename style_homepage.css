@@ -882,7 +882,7 @@ width: 500px;
 font-size: 30px;
 line-height: 90%;
 margin-bottom: 15px;
-margin-top: 40px;
+margin-top:70px;
 }
 
   .p1section2
@@ -905,6 +905,12 @@ margin-top: 40px;
   margin: 0px;
   }
 
+.fondovid 
+{
+width: auto;
+background: white!important;
+margin-bottom:70px;
+}
 
   .video-container {
     height: 180px;
