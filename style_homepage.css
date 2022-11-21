@@ -410,7 +410,7 @@ margin: 0px;
   z-index:999999999;
   background: none;
   margin-top:90px;
-  margin-bottom: 40 px;
+  margin-bottom:40px;
 }
 
 .h2section2home
@@ -451,7 +451,11 @@ margin-bottom: 0px;
 background: none;
 }
 
-
+.fondovid {
+width: auto;
+background: white!important;
+margin-bottom:90px;
+}
 
 .video-container {
     height: 310px;
@@ -470,10 +474,6 @@ background: none;
   background: white!important;
 }
 
-.fondovid {
-width: auto;
-  background: white!important;
-}
 
 /* ----------------------------------SECTION 3----------------------------------------- */
 
