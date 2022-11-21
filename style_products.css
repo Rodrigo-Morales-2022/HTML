@@ -709,6 +709,40 @@ width: 90px;
 margin: 0px;
 }
 
+/* -----------------------------------💙 PRONTO TOPUP 💙----------------------------------- */
+.herosection2
+{
+display:block;
+margin-top:80px;
+margin-bottom:80px;
+}
+
+
+/* --------------------------------------💙 VIDEO 💙--------------------------------------- */
+
+.video-container 
+{
+height: 280px;
+width: 380px;
+margin:auto;
+}
+
+/* -------------------------------------💙 PARRAFO 💙-------------------------------------- */
+
+
+.parrafo1
+{
+height:auto;
+width:325px;
+margin-right:0px;
+margin-left:0px;
+margin:auto;
+}
+
+.tituloA
+{
+text-align:center;
+}
 
 }
 
