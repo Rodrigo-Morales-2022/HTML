@@ -865,6 +865,41 @@ margin:auto;
 text-align:center;
 }
 
+/* ----------------------------------------💚 PNC 💚---------------------------------------- */
+ .herosection3
+{
+display: flex; flex-direction: column-reverse;
+margin-top:80px;
+margin-bottom:80px;
+}
+
+
+/* --------------------------------------💚 VIDEO 💚--------------------------------------- */
+
+.video-container2
+{
+height: 280px;
+width: 380px;
+margin:auto;
+}
+
+/* -------------------------------------💚 PARRAFO 💚-------------------------------------- */
+
+
+.parrafo2
+{
+height:auto;
+width:325px;
+margin-right:0px;
+margin-left:0px;
+margin:auto;
+}
+
+.tituloB
+{
+text-align:center;
+}
+
 }
 
 
