@@ -1070,6 +1070,27 @@ margin-bottom:70px;
 margin-bottom:70px;
 }
 
+/* ------------------------------------------------ PRODUCTOS ------------------------------------------------ */
+
+
+.productoshomepage
+{
+display: flex; /*PARA CAMBIAR DE HORIZONTAL A VERTICAL*/
+}
+
+.productoslides1
+{
+margin-right:0px;
+margin-bottom: 70px;
+}
+
+
+.contproductshome
+{
+  margin: auto;
+  display: block; /*PARA CAMBIAR DE HORIZONTAL A VERTICAL*/
+}
+
 
    }
 
@@ -1265,6 +1286,27 @@ margin-bottom:70px;
 }
 .owl-dot.active {
 	background-color: #8C8C8C !important;
+}
+
+/* ------------------------------------------------ PRODUCTOS ------------------------------------------------ */
+
+
+.productoshomepage
+{
+display: flex; /*PARA CAMBIAR DE HORIZONTAL A VERTICAL*/
+}
+
+.productoslides1
+{
+margin-right:0px;
+margin-bottom: 70px;
+}
+
+
+.contproductshome
+{
+  margin: auto;
+  display: block; /*PARA CAMBIAR DE HORIZONTAL A VERTICAL*/
 }	   
 
 
