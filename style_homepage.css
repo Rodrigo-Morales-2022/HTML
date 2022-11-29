@@ -662,7 +662,7 @@ color: white;
 .section4 {
 width: 100%!important;
 height: auto!important;
-background:hsl(333, 96%, 43%)!important;
+background:#CD0D61!important;
 padding-top: 50px!important;
 padding-bottom: 50px!important;
 }
@@ -675,7 +675,7 @@ text-align:center!important;
 color: white;
 font-size: 10pt;
 font-family: nunito;
-background-color:hsl(333, 96%, 43%);
+background-color:#CD0D61;
 width: 95%!important;
 }
 
