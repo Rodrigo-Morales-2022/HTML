@@ -94,7 +94,7 @@ justify-content: center;
 }
 
 .dropdown-content a:hover {
-  background-color: #CD0D61;
+  background-color: #BC1E64;
 }
 
 .dropdown:hover .dropdown-content {
@@ -105,7 +105,7 @@ justify-content: center;
 
 .optionsnavbar li:hover    {
     color: white;
-    background: #CD0D61;
+    background: #BC1E64;
     transition: 0.3s;
   }
 
