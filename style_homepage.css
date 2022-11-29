@@ -110,7 +110,7 @@ justify-content: center;
   }
 
 .Contact {
-  background-color: #CD0D61;
+  background-color: #BC1E64;
     border-radius: 100px;
     margin-left: 10px;
     padding-right: 10px;
@@ -118,7 +118,7 @@ justify-content: center;
 }
 
 .Contact:hover {
-  background-color: #CD0D61;
+  background-color: #BC1E64;
 }
 
 .logonav
@@ -151,7 +151,7 @@ margin-left: auto;
 #myDIV {
   width: auto;
   text-align: center;
-  background-color:#CD0D61;
+  background-color:#BC1E64;
   margin-top: 0px;
   display: none;
   position: absolute!important;
@@ -310,7 +310,7 @@ padding-bottom: 15px;
 
 .btncontactohero
 {
-background: #CD0D61;
+background: #BC1E64;
 width: 150px;
 padding-top: 15px;
 padding-bottom: 15px;
@@ -420,7 +420,7 @@ padding: 0px;
 height: auto;
 background: none;
 text-align: center;
-color: #CF0C62;
+color: #BC1E64;
 font-family: 'Nunito';
 font-style: normal;
 font-weight: 700;
@@ -586,7 +586,7 @@ margin: auto;
 
 .cuerpotextoslider1 h2
 {
-color: #CD0D61;
+color: #BC1E64;
 font-size: 25px;
 font-family: Nunito;
 font-weight: 800;
@@ -631,7 +631,7 @@ padding-left:25px;
 padding-right:25px;
 padding-top:10px;
 padding-bottom:10px;
-background-color: #CD0D61;
+background-color: #BC1E64;
 border-radius: 50px;
 text-decoration: none;
 color: white;
