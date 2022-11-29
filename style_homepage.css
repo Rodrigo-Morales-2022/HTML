@@ -94,7 +94,7 @@ justify-content: center;
 }
 
 .dropdown-content a:hover {
-  background-color: #BC1E64;
+  background-color: #CD0D61;
 }
 
 .dropdown:hover .dropdown-content {
@@ -105,12 +105,12 @@ justify-content: center;
 
 .optionsnavbar li:hover    {
     color: white;
-    background: #BC1E64;
+    background: #CD0D61;
     transition: 0.3s;
   }
 
 .Contact {
-  background-color: #BC1E64;
+  background-color: #CD0D61;
     border-radius: 100px;
     margin-left: 10px;
     padding-right: 10px;
@@ -118,7 +118,7 @@ justify-content: center;
 }
 
 .Contact:hover {
-  background-color: #BC1E64;
+  background-color: #CD0D61;
 }
 
 .logonav
@@ -151,7 +151,7 @@ margin-left: auto;
 #myDIV {
   width: auto;
   text-align: center;
-  background-color:#BC1E64;
+  background-color:#CD0D61;
   margin-top: 0px;
   display: none;
   position: absolute!important;
@@ -310,7 +310,7 @@ padding-bottom: 15px;
 
 .btncontactohero
 {
-background: #BC1E64;
+background: #CD0D61;
 width: 150px;
 padding-top: 15px;
 padding-bottom: 15px;
@@ -420,7 +420,7 @@ padding: 0px;
 height: auto;
 background: none;
 text-align: center;
-color: #BC1E64;
+color: #CF0C62;
 font-family: 'Nunito';
 font-style: normal;
 font-weight: 700;
