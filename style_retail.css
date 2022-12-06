@@ -472,7 +472,7 @@ width: auto;
 align-items: center;
 justify-content: center;
 position: relative;
-margin-top: 58px;
+margin-top:0px;
 display: flex;
 align-items: center;
 background-image: url(images/fondo_retail_B.svg);
