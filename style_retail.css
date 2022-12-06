@@ -917,6 +917,10 @@ font-weight:300;
 text-align: justify;
 }
 
+.emdash1, .emdash2, .emdash3{
+margin:auto;
+}
+
 /* -------------------------------------💙 SECTION 3 💙-------------------------------------- */
 
 
@@ -1174,6 +1178,10 @@ text-align:center;
 font-size: 16px;
 font-weight: 300;
 text-align: justify;
+}
+
+.emdash1, .emdash2, .emdash3{
+margin:auto;
 }
 
 
