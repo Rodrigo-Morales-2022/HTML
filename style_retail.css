@@ -919,6 +919,8 @@ text-align: justify;
 
 .emdash1, .emdash2, .emdash3{
 margin:auto;
+margin-top:10px;
+margin-bottom:18px;
 }
 
 /* -------------------------------------💙 SECTION 3 💙-------------------------------------- */
@@ -1182,6 +1184,8 @@ text-align: justify;
 
 .emdash1, .emdash2, .emdash3{
 margin:auto;
+margin-top:10px;
+margin-bottom:18px;
 }
 
 
