@@ -860,7 +860,7 @@ width: 400px;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:750px;
+height:650px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -934,6 +934,16 @@ margin-top:0px;
 background-size: 650px;
 margin-top:0px;/* ----ALTURA---- */
 margin-bottom:0px;/* ----ALTURA---- */
+}
+
+.cornerheroB
+{
+position: absolute;
+top: 0px;
+right: 0px;
+height: 200px;
+width: 200px;
+margin: 0px;
 }
 
 
@@ -1126,7 +1136,7 @@ width: 8px !important;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:750px;
+height:650px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -1200,6 +1210,16 @@ position: relative;
 margin-top:0px;
 margin-top:0px;/* ----ALTURA---- */
 margin-bottom:0px;/* ----ALTURA---- */
+}
+
+.cornerheroB
+{
+position: absolute;
+top: 0px;
+right: 0px;
+height: 200px;
+width: 200px;
+margin: 0px;
 }
 
 
