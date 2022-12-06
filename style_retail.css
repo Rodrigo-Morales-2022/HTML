@@ -493,8 +493,8 @@ margin-right:65px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 
 .retailtitulo3
 {
-color:#CD0D61;
-font-family:Nunito;
+color:white;
+font-family: Montserrat;
 font-weight: 700;
 font-size: 30px;
 width:340px;
@@ -502,7 +502,7 @@ width:340px;
 
 .parrafo3
 {
-color: #353745;
+color: white;
 font-family: Nunito;
 font-size:17px;
 font-weight:300;
