@@ -860,7 +860,7 @@ width: 400px;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:auto;
+height:500px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -871,8 +871,8 @@ margin-bottom:0px!important;
 width:100%;
 height:auto;
 display:flex;
-margin-top:60px;
-margin-bottom:40px;
+margin-top:0px;
+margin-bottom:0px;
 }
 
 .margencontenido2 /*PARA CENTRAR TODO*/
@@ -928,7 +928,7 @@ margin-bottom:18px;
 
 .herosection2
 {
-height:auto;
+height:500px;
 position: relative;
 margin-top:0px;
 background-size: 650px;
@@ -942,8 +942,9 @@ margin-bottom:0px;/* ----ALTURA---- */
 
 .retail3
 {
-margin-top: 0px;
-margin-bottom: 60px;
+height:auto;
+margin-top:0px;
+margin-bottom:0px;
 margin-left:0px;
 display:flex;
 flex-direction:column-reverse;
@@ -1125,7 +1126,7 @@ width: 8px !important;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:auto;
+height:500px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -1136,8 +1137,8 @@ margin-bottom:0px!important;
 width:100%;
 height:auto;
 display:flex;
-margin-top:60px;
-margin-bottom:40px;
+margin-top:0px;
+margin-bottom:0px;
 }
 
 .margencontenido2 /*PARA CENTRAR TODO*/
@@ -1194,7 +1195,7 @@ margin-bottom:18px;
 
 .herosection2
 {
-height:auto;
+height:500px;
 position: relative;
 margin-top:0px;
 margin-top:0px;/* ----ALTURA---- */
@@ -1208,7 +1209,7 @@ margin-bottom:0px;/* ----ALTURA---- */
 .retail3
 {
 margin-top: 0px;
-margin-bottom: 60px;
+margin-bottom:0px;
 margin-left:0px;
 display:flex;
 flex-direction:column-reverse;
