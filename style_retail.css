@@ -860,7 +860,7 @@ width: 400px;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:500px;
+height:750px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -928,7 +928,7 @@ margin-bottom:18px;
 
 .herosection2
 {
-height:500px;
+height:750px;
 position: relative;
 margin-top:0px;
 background-size: 650px;
@@ -956,7 +956,7 @@ flex-direction:column-reverse;
 color:white;
 margin:auto;
 /*DISTANCIA ENTRE PARRAFO E IMAGENES*/
-margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+margin-bottom:0px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 }
 
 
@@ -1126,7 +1126,7 @@ width: 8px !important;
 /* --------------------------------------💛💛 SECTION 2 💛💛--------------------------------------- */
 
 .retail2 {
-height:500px;
+height:750px;
 width: auto;
 margin-top:0px!important;
 margin-bottom:0px!important;
@@ -1195,7 +1195,7 @@ margin-bottom:18px;
 
 .herosection2
 {
-height:500px;
+height:750px;
 position: relative;
 margin-top:0px;
 margin-top:0px;/* ----ALTURA---- */
@@ -1221,7 +1221,7 @@ flex-direction:column-reverse;
 color:white;
 margin:auto;
 /*DISTANCIA ENTRE PARRAFO E IMAGENES*/
-margin-bottom: 25px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
+margin-bottom:0px;/*DISTANCIA ENTRE PARRAFO E IMAGENES*/
 }
 
 
