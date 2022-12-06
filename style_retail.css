@@ -458,16 +458,21 @@ text-align: justify;
 
 .herosection2
 {
-background:#31344E;
-height:550px;
+background: #31344E;
+height:552px;
 width: auto;
 align-items: center;
 justify-content: center;
 position: relative;
+margin-top: 58px;
 display: flex;
 align-items: center;
-margin-top:0px;/* ----ALTURA---- */
-margin-bottom:0px;/* ----ALTURA---- */
+background-image: url(images/rfondo_retail_B.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 650px;
+background-color:#31344e;
+background-blend-mode: multiply;
 }
 
 .cornerheroB
