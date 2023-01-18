@@ -809,7 +809,7 @@ text-align: center;
 .parrafo1
 {
 margin: auto;
-width:298px!important;
+width:340px!important;
 }
 
 
@@ -1086,9 +1086,11 @@ width: 8px !important;
      .parrafo1
      {
      margin: auto;
-     width:330px!important;
+     width:298px!important;
      font-size:16px!important;
      }
+	   
+
 
 
      /* -------------------------------------🧡 CAROUSEL 1 🧡-------------------------------------- */
@@ -1189,7 +1191,7 @@ text-align:center;
 .parrafo2
 {
 font-size: 16px!important;
-font-weight: 300;
+font-weight: 298;
 text-align: justify;
 }
 
@@ -1259,7 +1261,7 @@ margin-right:0px!important;
 .parrafo3
 {
 margin: auto;
-width:330px!important;
+width:298px!important;
 font-size:16px!important;
 }
 
